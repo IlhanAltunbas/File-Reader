@@ -39,7 +39,7 @@ Built with **Jetpack Compose** and following the **MVVM architecture**, FileMana
 
 ## 🧠 Architecture – `MVVM` Focus
 
-The core logic is handled by `MainViewModel`, which maintains UI state and coordinates with the repository layer.
+The core logic is handled by `ModelViewViewModel`, which maintains UI state and coordinates with the repository layer.
 
 ### 📌 States
 
