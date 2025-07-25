@@ -66,8 +66,8 @@ The core logic is handled by `MainViewModel`, which maintains UI state and coord
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/filemanager.git
-    cd filemanager
+    git clone https://github.com/your-username/filereader.git
+    cd filereader
     ```
 
 2. Open the project in Android Studio  
