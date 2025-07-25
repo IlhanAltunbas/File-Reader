@@ -1,4 +1,4 @@
-# 📁 FileManager – Android Application
+# 📁 FileReader– Android Application
 
 **FileManager** is a modern Android application that allows users to manage files on their device. Users can view, add, search, and delete files easily through an intuitive interface.
 
